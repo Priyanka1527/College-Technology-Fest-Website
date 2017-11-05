@@ -1,0 +1,88 @@
+/* CSS Document */
+
+#eventcontent
+{
+	padding-top:200px;
+	margin: 0px;
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-repeat: no-repeat;
+	width: 1280px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#eventbody
+{
+	padding: 0px;
+	color: #CCFFCC;
+	width: 1280px;
+	height: auto;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+#content
+{
+margin-left:auto;
+margin-right:auto;
+width:1280px;
+height:auto;
+background-image:url('images/content.jpg');
+background-repeat:no-repeat;
+}
+
+#contentreg
+{
+margin-left:auto;
+margin-right:auto;
+width:1280px;
+height:auto;
+background-image:url('images/74645-1-4.jpg');
+background-repeat:no-repeat;
+padding-top: 200px;
+}
+
+#regbox
+{
+	width: 800px;
+	height: auto;
+	background-color: #FFFFFF;
+	background-image:url('images/registration.jpg');
+	
+	margin-right: auto;
+	margin-left: auto;
+}
+#grid
+{
+	width: 600px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+#regbox1
+{
+	width: 900px;
+	height: auto;
+	background-color: #FFFFFF;
+	background-image:url('images/registration.jpg');
+	
+	margin-right: auto;
+	margin-left: auto;
+}
+#contentreg2
+{
+margin-left:auto;
+margin-right:auto;
+width:1280px;
+height:auto;
+background-image:url('images/74645-1-4.jpg');
+background-repeat:no-repeat;
+padding-top: 200px;
+}
